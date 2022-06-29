@@ -1,6 +1,8 @@
 {
   "nbdev_demo": {
     "Overview": "/",
-    "Demo Project": "core.html"
+    "Demo Project": "core.html",
+    "Card ": "card.html",
+    "Deck ": "deck.html"
   }
 }

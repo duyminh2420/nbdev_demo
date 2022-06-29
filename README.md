@@ -1,16 +1,20 @@
-# Project name here
-> Summary description here.
+# Demo Decks of cards
+
 
 
 This file will become your README and also the index of your documentation.
 
-## Install
+This file was automatically generated from a Jupyter Notebook using nbdev. To change, you must edit index.ipynb.
 
-`pip install your_project_name`
+## Install packages
+
+`git clone https://github.com/duyminh2420/nbdev_demo`
+
+`pip install -e nbdev_demo`
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Code examples:
 
 ```python
 1+1
@@ -22,3 +26,7 @@ Fill me in please! Don't forget code examples:
     2
 
 
+
+Math equation support:
+
+This version is displayed inline: $\sum_{i=1}^{k+1}i$ . You can include text before and after.

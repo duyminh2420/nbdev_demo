@@ -12,6 +12,12 @@ entries:
     - output: web,pdf
       title: Demo Project
       url: core.html
+    - output: web,pdf
+      title: 'Card '
+      url: card.html
+    - output: web,pdf
+      title: 'Deck '
+      url: deck.html
     output: web
     title: nbdev_demo
   output: web
