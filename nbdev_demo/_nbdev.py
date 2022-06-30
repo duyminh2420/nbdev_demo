@@ -5,11 +5,23 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 index = {"say_hi": "00_core.ipynb",
          "say_bonjour": "00_core.ipynb",
          "Card": "01_card.ipynb",
-         "Deck": "02_deck.ipynb"}
+         "Deck": "02_deck.ipynb",
+         "iowa_file_path": "03_train.ipynb",
+         "home_data": "03_train.ipynb",
+         "y": "03_train.ipynb",
+         "features": "03_train.ipynb",
+         "X": "03_train.ipynb",
+         "iowa_model": "03_train.ipynb",
+         "val_predictions": "03_train.ipynb",
+         "val_mae": "03_train.ipynb",
+         "rf_model": "03_train.ipynb",
+         "rf_val_predictions": "03_train.ipynb",
+         "rf_val_mae": "03_train.ipynb"}
 
 modules = ["core.py",
            "card.py",
-           "deck.py"]
+           "deck.py",
+           "train.py"]
 
 doc_url = "https://duyminh2420.github.io/nbdev_demo/"
 

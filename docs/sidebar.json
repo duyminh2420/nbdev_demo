@@ -3,6 +3,7 @@
     "Overview": "/",
     "Demo Project": "core.html",
     "Card ": "card.html",
-    "Deck ": "deck.html"
+    "Deck ": "deck.html",
+    "Random Forests": "train.html"
   }
 }
