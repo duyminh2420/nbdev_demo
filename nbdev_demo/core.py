@@ -10,4 +10,4 @@ def say_hi(to):
 # Cell
 def say_bonjour(to):
     "Say bonjour to someone"
-    return f'Bonjour{to}!'
+    return f'Bonjour {to}!'
